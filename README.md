@@ -6,3 +6,7 @@ This document is made by [gitfab](http://gitfab.org)
 
 PCを一定時間連続で使用していると振動が止まらなくなる
 ---
+#idea-real mouse
+どっかいっちゃう
+
+---
