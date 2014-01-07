@@ -15,17 +15,13 @@ PC操作はもちろん、家事などもやる。mousuというよりdroid。�
 どっかいっちゃう
 
 
-![IMG_9484.jpg](https://raw.github.com/takerock/open-source-mouse/master/gitfab/resources/IMG_9484.jpg)
-
-![IMG_8651.jpg](https://raw.github.com/takerock/open-source-mouse/master/gitfab/resources/IMG_8651.jpg)
-
 ![IMG_9480.jpg](https://raw.github.com/takerock/open-source-mouse/master/gitfab/resources/IMG_9480.jpg)
+
+プルバックカー→どこいくかわからない→ぶつかって壊れる
 
 ![IMG_9479.JPG](https://raw.github.com/takerock/open-source-mouse/master/gitfab/resources/IMG_9479.JPG)
 
-プルバックカー→どこに行くか分からない→ぶつかって壊れれる
-
-壊れないように…→普通のミニカーに…→マウスをねずみっぽく
+壊れないように…→普通のミニカーに…→マウスをねずみっぽく、絵は得意だけど造形は…
 
 ノートPCの上で動かしたい→ラジコン化？　ようやくマウスの機能
 
