@@ -5,12 +5,11 @@ This document is made by [gitfab](http://gitfab.org)
 #idea-health mouse
 
 PCを一定時間連続で使用していると振動が止まらなくなる。
+
+![e61edd08.jpg](https://raw.github.com/takerock/open-source-mouse/master/gitfab/resources/e61edd08.jpg)
 ---
 #idea-droid mouse
 PC操作はもちろん、家事などもやる。mousuというよりdroid。イメージはR2-D2。
-
-
-![R2D2.jpg](https://raw.github.com/takerock/open-source-mouse/master/gitfab/resources/R2D2.jpg)
 ---
 #idea-real mouse
 
