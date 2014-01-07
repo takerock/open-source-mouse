@@ -21,4 +21,6 @@ PC操作はもちろん、家事などもやる。mousuというよりdroid。�
 ![IMG_9484.jpg](https://raw.github.com/takerock/open-source-mouse/master/gitfab/resources/IMG_9484.jpg)
 
 ![IMG_8651.jpg](https://raw.github.com/takerock/open-source-mouse/master/gitfab/resources/IMG_8651.jpg)
+
+![IMG_9480.jpg](https://raw.github.com/takerock/open-source-mouse/master/gitfab/resources/IMG_9480.jpg)
 ---
