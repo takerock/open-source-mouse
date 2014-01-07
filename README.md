@@ -9,6 +9,8 @@ PCを一定時間連続で使用していると振動が止まらなくなる。
 #idea-droid mouse
 PC操作はもちろん、家事などもやる。mousuというよりdroid。イメージはR2-D2。
 
+
+![R2D2.jpg](https://raw.github.com/takerock/open-source-mouse/master/gitfab/resources/R2D2.jpg)
 ---
 #idea-real mouse
 
