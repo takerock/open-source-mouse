@@ -32,4 +32,5 @@ PC操作はもちろん、家事などもやる。mousuというよりdroid。�
 ![IMG_9484.jpg](https://raw.github.com/takerock/open-source-mouse/master/gitfab/resources/IMG_9484.jpg)
 
 コントローラー？のところで操作するか、ボールごと移植するか
+プレステで言うLRボタンでクリックすることは確定
 ---
