@@ -25,4 +25,14 @@ PC操作はもちろん、家事などもやる。mousuというよりdroid。�
 ![IMG_9480.jpg](https://raw.github.com/takerock/open-source-mouse/master/gitfab/resources/IMG_9480.jpg)
 
 ![IMG_9479.JPG](https://raw.github.com/takerock/open-source-mouse/master/gitfab/resources/IMG_9479.JPG)
+
+プルバックカー→どこに行くか分からない→ぶつかって壊れれる
+
+壊れないように…→普通のミニカーに…→マウスをねずみっぽく
+
+ノートPCの上で動かしたい→ラジコン化？　ようやくマウスの機能
+
+∴ラジコンのリモコンで操作
+
+
 ---
