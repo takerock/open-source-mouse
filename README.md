@@ -21,7 +21,10 @@ PC操作はもちろん、家事などもやる。mousuというよりdroid。�
 ![IMG_9480.jpg](https://raw.github.com/takerock/open-source-mouse/master/gitfab/resources/IMG_9480.jpg)
 
 プルバックカー→どこいくかわからない→ぶつかって壊れる
-
+プルバックカーマウス、カーマウス：プルバックカーを基に紙粘土を装着
+ぶつかる際に壊れていくためプラスチックに変更
+型取りに多大な時間、実験が全然進まないため材料を粘土に戻す
+カーマウスは２号（正確には３号）という意味も込めてしっぽを２に形作った。
 ![IMG_9479.JPG](https://raw.github.com/takerock/open-source-mouse/master/gitfab/resources/IMG_9479.JPG)
 
 壊れないように…→普通のミニカーに…→マウスをねずみっぽく、絵は得意だけど造形は…
