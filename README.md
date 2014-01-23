@@ -17,7 +17,7 @@ PC操作はもちろん、家事などもやる。mousuというよりdroid。�
 
 どっかいっちゃう
 
-
+コンセプト：マウスをつくるのなんて難しい、ギャグでもいいからこれなら作れそう…と製作開始したRealMouse
 ![IMG_9480.jpg](https://raw.github.com/takerock/open-source-mouse/master/gitfab/resources/IMG_9480.jpg)
 
 プルバックカー→どこいくかわからない→ぶつかって壊れる
